@@ -1,0 +1,12 @@
+# Derleme dosyaları
+*.exe
+*.obj
+*.o
+*.out
+
+# VS Code ayarları
+.vscode/
+
+# Windows dosyaları
+Thumbs.db
+Desktop.ini
