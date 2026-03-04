@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-
+void myMessage();
 int main()
 {
 // Ana function'da geriye return olarak 0 degerini dondurdugunde programdan cikmasi gerektigini anliyor o yuzden int ile tanimliyoruz 

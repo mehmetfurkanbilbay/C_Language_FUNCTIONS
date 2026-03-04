@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
-
+//islower() FUNCTION    a-z
 
 int main() {
     int number;
